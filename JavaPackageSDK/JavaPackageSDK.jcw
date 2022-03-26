@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>JavaPackageSDK</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>JavaPackageSDK.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>JavaPackageSDK.jcp</path>
+		</project>
+	</projects>
+</workspace>
